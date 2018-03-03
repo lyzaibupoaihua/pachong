@@ -1,0 +1,272 @@
+[
+  {
+    "author": "中关村在线zol.com.cn",
+    "score1": "1424",
+    "score2": "/themes/default/images/baidu/9.gif",
+    "score3": "/themes/default/images/ranks/Rank_8.gif",
+    "score4": "75464",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "太平洋电脑网pconline.com.cn",
+    "score1": "24358",
+    "score2": "/themes/default/images/baidu/9.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "67112",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "站长之家chinaz.com",
+    "score1": "811",
+    "score2": "/themes/default/images/baidu/9.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "40491",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "苹果官方网站apple.com",
+    "score1": "65",
+    "score2": "/themes/default/images/baidu/9.gif",
+    "score3": "/themes/default/images/ranks/Rank_9.gif",
+    "score4": "86572",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "微盘vdisk.weibo.com",
+    "score1": "21",
+    "score2": "/themes/default/images/baidu/9.gif",
+    "score3": "/themes/default/images/ranks/Rank_6.gif",
+    "score4": "849",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "360安全中心360.cn",
+    "score1": "22",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "937091",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "支付宝alipay.com",
+    "score1": "37",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "210512",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "w3school 在线教程w3school.com.cn",
+    "score1": "1241",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_5.gif",
+    "score4": "495",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "PC6下载站pc6.com",
+    "score1": "3934",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_6.gif",
+    "score4": "2775",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "TechWebtechweb.com.cn",
+    "score1": "3708",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "2243",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "新浪科技tech.sina.com.cn",
+    "score1": "19",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "9331",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "华军软件园onlinedown.net",
+    "score1": "3611",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "7000",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "CSDNcsdn.net",
+    "score1": "57",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "4422",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "小米网www.mi.com",
+    "score1": "441",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_0.gif",
+    "score4": "828",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "千图网58pic.com",
+    "score1": "5171",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_4.gif",
+    "score4": "723",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "下载之家软件站downza.cn",
+    "score1": "16246",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_5.gif",
+    "score4": "744",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "脚本之家jb51.net",
+    "score1": "1689",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_5.gif",
+    "score4": "2432",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "红动中国redocn.com",
+    "score1": "11737",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_5.gif",
+    "score4": "1260",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "QQ邮箱mail.qq.com",
+    "score1": "9",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "62973",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "西西软件园cr173.com",
+    "score1": "6412",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_6.gif",
+    "score4": "2172",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "博客园cnblogs.com",
+    "score1": "307",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_6.gif",
+    "score4": "1832",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "华为商城vmall.com",
+    "score1": "2134",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_6.gif",
+    "score4": "2481",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "163网易免费邮mail.163.com",
+    "score1": "554",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "29614",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "爱站网aizhan.com",
+    "score1": "4647",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_5.gif",
+    "score4": "52448",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "站长素材sc.chinaz.com",
+    "score1": "811",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_6.gif",
+    "score4": "1139",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "2345软件大全duote.com",
+    "score1": "14280",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_0.gif",
+    "score4": "3941",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "比特网chinabyte.com",
+    "score1": "7940",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "4267",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "天极网yesky.com",
+    "score1": "1087",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_7.gif",
+    "score4": "29563",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "非凡软件站crsky.com",
+    "score1": "6741",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_6.gif",
+    "score4": "7780",
+    "playing": null,
+    "saying": null
+  },
+  {
+    "author": "腾牛网qqtn.com",
+    "score1": "8613",
+    "score2": "/themes/default/images/baidu/8.gif",
+    "score3": "/themes/default/images/ranks/Rank_5.gif",
+    "score4": "623",
+    "playing": null,
+    "saying": null
+  }
+]
